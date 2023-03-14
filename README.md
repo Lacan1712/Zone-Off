@@ -3,7 +3,7 @@
 > Você pode saber o que disse, mas nunca o que outro escutou.
 
 ¦→📚Atual estutande de Ciências da Computação.    
-¦→Estudando as linguagens: **PHP, JavaScript,Java,C++**  
+¦→Estudando as linguagens: **PHP, JavaScript,Java,** 
 ¦→Experiências básicas com trabalho front-end: **Html,Css,JavaScript***
 
 <div>
